@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCourseDetailRequest xmlns="https://soapservicecourse.com/courses" 
+xsi:schemaLocation="https://soapservicecourse.com/courses course-details.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+>
+<id>123</id>
+</GetCourseDetailRequest>
